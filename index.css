@@ -215,7 +215,7 @@ form{
 }
 /* contact */
 
-@media(max-width:768px){
+@media only screen and(max-width: 800px){
 *{
     margin: 0px;
     padding: 0px;
@@ -261,20 +261,6 @@ nav ul{
         background-size: contain;
         margin-top: 0cm;
         margin-bottom: 0cm;
-    }
-    .img-div{
-        padding-left: 0cm;
-        padding-bottom: 0cm;
-       margin-top: 0cm;
-       margin-bottom: 0cm;
-       margin-left: 0cm;
-       margin-right: 0cm;
-    }
-    .img{
-      width: 490px;
-      height: 450px;
-      padding-right: 0cm;
-      margin-right: 0cm;
     }
     .color-div{
         padding-top: 0cm;
