@@ -572,6 +572,13 @@ align-items: center;
      padding-top: 20px;
      padding-bottom: 20px;
  } 
+ footer{
+    background-color: brown;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
 
 @media(max-width:800px){
     .nav-links {
@@ -602,6 +609,11 @@ align-items: center;
  }
  .color-div{
     text-align: center;
+    align-items: center;
+ }
+ .second-section{
+    padding-right: 5px;
+    padding-left: 5px;
  }
  .imag{
     padding-top: 30px;
@@ -609,6 +621,7 @@ align-items: center;
 .features-div{
     display: block;
 }
+
 .do{
     padding-top: 30px;
 }
