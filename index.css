@@ -610,10 +610,11 @@ align-items: center;
  .color-div{
     text-align: center;
     align-items: center;
+    position:sticky;
  }
  .second-section{
-    padding-right: 5px;
-    padding-left: 5px;
+    padding-right: 4px;
+    padding-left: 3px;
  }
  .imag{
     padding-top: 30px;
